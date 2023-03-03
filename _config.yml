@@ -1,1 +1,10 @@
-theme: minima
+# Site settingfirst site
+title: yn blog
+author:
+  name: yn
+  email: yashnigam@gmail.com
+description: "yn"
+
+# Build Settings
+remote_theme: jekyll/minima
+# remote theme allows to reference any theme hosted in remote repository
